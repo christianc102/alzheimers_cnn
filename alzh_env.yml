@@ -1,0 +1,25 @@
+name: alzh_env
+
+channels:
+- conda-forge
+
+dependencies:
+- beautifulsoup4
+- jupyterlab
+- matplotlib
+- nibabel
+- numpy
+- pandas
+- papermill
+- pillow
+- pip
+- python>=3.9
+- pytorch
+- requests
+- retrolab
+- scipy
+- scikit-learn
+- seaborn
+- statsmodels
+- voila
+  
